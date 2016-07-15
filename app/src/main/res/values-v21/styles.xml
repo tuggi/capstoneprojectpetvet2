@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="MaterialTheme" parent="ParentMaterialTheme">
+        <!-- only for lollippop and above -->
+    </style>
+
+</resources>

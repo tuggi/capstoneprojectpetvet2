@@ -1,0 +1,20 @@
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="windowBackground">#D2D5DA</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="text_color">#ffffff</color>
+    <color name="white">#FFFFFFFF </color>
+
+    <color name="TextViewbtn">#30114F</color>
+
+    <color name="colorPrimary.V">#673AB7</color>
+    <color name="colorPrimaryDark.V">#512DA8</color>
+    <color name="colorAccent.V">#FFA726</color>
+    <!--<color name="textColorPrimary.V">#FFFFFF</color>-->
+    <color name="windowBackground.V">#7E57C2</color>
+    <color name="navigationBarColor.V">#000000</color>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">vetCare</string>
+    <string name="title_activity_admin_panel">adminPanel</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_pet_owner__main">PetOwner_MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="loading">Authenticating</string>
+    <string name="loadingOut">Logging out</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
